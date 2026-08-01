@@ -43,7 +43,7 @@
   "general.colossalchests.uncolossalchest": "소형 상자",
   "item.colossalchests.upgrade_tool": "상자 업그레이드 도구",
   "item.colossalchests.upgrade_tool.info": "인벤토리에 다음 티어를 만들기 위한 재료만 있다면, 이 도구로 상자를 강화할 수 있습니다.",
-  "item.colossalchests.upgrade_tool_reverse": "상자 다운그레이트 도구",
+  "item.colossalchests.upgrade_tool_reverse": "상자 다운그레이드 도구",
   "item.colossalchests.upgrade_tool_reverse.info": "인벤토리에 이전 티어를 만들기 위한 재료만 있다면, 이 도구로 상자를 다운그레이드할 수 있습니다. §4주의!: 아이템이 너무 많은 상자에 사용하면 내용물이 튀어나올 수도 있습니다!",
   "itemGroup.colossalchests": "대형 상자",
   "material.colossalchests.copper": "구리",

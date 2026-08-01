@@ -34,7 +34,7 @@
     "block.gtceu.runic_circuitry_assembling_station.tooltip.0": "§7기술과 마법의 경계를 넘나드는 기계로, 신비한 힘으로 단단한 판에 순수한 특이점으로 룬을 써 내려갑니다.",
 
     "block.gtceu.runic_inscribe_manipulate.tooltip.0": "§7더 고급의 루닉 각인기로, 여러 층을 가진 룬의 위에 그들의 힘을 융합, 또는 구조물 블록에 조립하여 세상에 힘을 행사하게 합니다.",
-    
+
     "block.gtceu.stargate_component_assembly.tooltip.0": "§7우주를 비틀어 열어버리는 힘을 가지는 고대 룬이 새겨진 엄청 강력한 블록을 만들 수 있는 능력을 위해 디자인된 거대한 구조물입니다.",
 
     "block.gtceu.chemical_plant.tooltip.0": "§7이 기계는 화학 공정을 하나의 기계에서 처리할 뿐만 아니라 더 진보된 화학 반응이 가능합니다.",
@@ -279,7 +279,7 @@
     "block.gtceu.chemical_plant": "화학 설비 [CmP]",
     "gtceu.component_part_assembly": "부품 구성 요소 조립",
     "block.gtceu.component_part_assembly": "부품 구성 요소 조립기 [CPA]",
-    "gtceu.large_farm": "농사",
+    "gtceu.large_farm": "대형 농사",
     "block.gtceu.large_farm": "대형 농장 [LF]",
     "gtceu.large_sieve": "대형 체",
     "block.gtceu.large_sieve": "대형 체질기 [LSv]",
@@ -393,7 +393,6 @@
     "material.gtceu.radiant_muon_infusion_flux": "환한 §a뮤온§r 융합 플럭스",
     "material.gtceu.brilliant_muon_infusion_flux": "우월한 §a뮤온§r 융합 플럭스",
 
-
     "material.gtceu.mono_phase_electron_infusion_flux": "1상 §d전자§r 융합 플럭스",
     "material.gtceu.di_phase_electron_infusion_agent": "Di-상 §d전자§r 유동화제",
     "material.gtceu.tri_phase_electron_infusion_agent": "Tri-상 §d전자§r 융합 플럭스",
@@ -403,7 +402,6 @@
     "material.gtceu.beta_phase_electron_infusion_agent": "β-상 §d전자§r 유동화제",
     "material.gtceu.alpha_phase_electron_infusion_agent": "α-상 §d전자§r 유동화제",
     "material.gtceu.alternating_phase_electron_infusion_flux": "대체 §d전자§r 융합 플럭스",
-
 
     "block.gtceu.cyclonic_sifter": "사이클론 쉬프터 [CSf]",
     "gtceu.cyclonic_sifter": "사이클론 쉬프팅",
@@ -425,7 +423,7 @@
     "block.gtceu.dimensional_finder": "차원 탐지 장치 [DF]",
 
     "gtceu.runic_inscribe_manipulate": "루닉 각인과 조종",
-    "block.gtceu.runic_inscribe_manipulate": "루닉 각인과 다방면 조종기",
+    "block.gtceu.runic_inscribe_manipulate": "루닉 각인과 다방면 조종기 [RIMM]",
 
     "material.gtceu.magnetic_pure_netherite": "자성화 순수한 네더라이트",
     "material.gtceu.ancient_runicalium": "고대 루니칼리움",
@@ -1060,15 +1058,15 @@
     "block.gtceu.uev_me_assembler": "§a에픽 ME 조립기 II",
     "block.gtceu.uiv_me_assembler": "§2에픽 ME 조립기 III",
 
-    "block.gtceu.large_me_assembler": "대형 ME 조립기",
+    "block.gtceu.large_me_assembler": "대형 ME 조립기 [LMEA]",
     "block.gtceu.large_me_assembler.tooltip.0": "당신이 필요한 것 그 이상의 크기의 ME 조립기입니다.",
 
     "material.gtceu.skystone": "천령석",
     "material.gtceu.gold_skystone_alloy": "금 천령석 합금",
     "material.gtceu.diamond_skystone_alloy": "다이아몬드 천령석 합금",
     "material.gtceu.certus_quartz_skystone_alloy": "서투스 석영 천령석 합금",
-    "material.gtceu.fluix": "플럭스",
-    "material.gtceu.fluix_steel": "플럭스 강철",
+    "material.gtceu.fluix": "플루익스",
+    "material.gtceu.fluix_steel": "플루익스 강철",
     "material.gtceu.netherite_gold_skystone_alloy": "네더라이트 금 천령석 합금",
     "material.gtceu.netherite_certus_quartz_skystone_alloy": "네더라이트 서투스 석영 천령석 합금",
 
@@ -1093,8 +1091,8 @@
     "block.gtceu.hydroponic_garden": "수경 온실 [HG]",
     "block.gtceu.hydroponic_garden.tooltip.0": "§7몇 초 만에 수경 재배를 이용해 많은 양의 작물을 재배할 수 있습니다.",
 
-    "gtceu.composting_factory": "비료화 공장 [CF]",
-    "block.gtceu.composting_factory": "비료화 공장",
+    "gtceu.composting_factory": "비료화 공장",
+    "block.gtceu.composting_factory": "비료화 공장 [CF]",
     "block.gtceu.composting_factory.tooltip.0": "§7매우 빠른 퇴비통으로, 평생 사용할 뼛가루를 제공합니다.",
 
     "material.gtceu.raw_silkworm_oil": "생 누에 기름",
@@ -1112,7 +1110,7 @@
     "block.gtceu.ulv_fluid_input.tooltip.2": "§9액체 용량:§r 2,000 mB",
 
     "material.gtceu.expetidalloy_d_17": "익스피티드합금 D-17",
-    "material.gtceu.tritan_steel": "티탄 강철",
+    "material.gtceu.tritan_steel": "트리탄 강철",
 
     "block.gtceu.multithreaded_component_synthesis_forge": "멀티 스레드 부품 종합 용광로 [MtCSF]",
     "block.gtceu.multithreaded_component_synthesis_forge.tooltip.0": "§3§l멀티 스레드 부품 조립기",
@@ -1242,7 +1240,7 @@
     "block.gtceu.t_large_arc_furnace.tooltip.0": "§7아크로의 대형 버전으로, 한 번에 여러 아이템을 태웁니다.",
 
     "material.gtceu.manganin": "망가닌",
-    "block.gtceu.t_large_electromagnetic_separator": "대형 전자기 분해기",
+    "block.gtceu.t_large_electromagnetic_separator": "대형 전자기 분해기 [LEMS]",
     "block.gtceu.t_large_electromagnetic_separator.tooltip.0": "§7전자기 분해기의 대형 버전으로, 더 빠르게 아이템을 분해합니다.",
     "material.gtceu.acidic_bromine_solution": "산성 브로민 용액",
     "material.gtceu.concentrated_bromine_solution": "농축된 브로민 용액",
@@ -1261,9 +1259,9 @@
     "block.gtceu.bacteria_synthesizer": "박테리아 합성기 [BS]",
     "gtceu.bacteria_synthesizer": "박테리아 합성기",
 
-    "block.gtceu.vacuum_chemical_reaction_chamber": "진공 화학 반응 챔버",
+    "gtceu.vacuum_chemical_reaction_chamber": "진공 화학 반응 챔버",
 
-    "gtceu.vacuum_chemical_reaction_chamber": "진공 화학 반응 챔버 [VCRC]",
+    "block.gtceu.vacuum_chemical_reaction_chamber": "진공 화학 반응 챔버 [VCRC]",
     "block.gtceu.vacuum_chemical_reaction_chamber.tooltip.0": "§c§l압력 화학 반응기",
     "block.gtceu.vacuum_chemical_reaction_chamber.tooltip.1": "§7고압 환경에서 작동하는 화학 반응기로, 반응 속도를 올리며 특정 진공 상태에서 가능한 반응을 활성화합니다",
     "block.gtceu.vacuum_chemical_reaction_chamber.p1.0": "§b§l압력 메커니즘",
@@ -1318,7 +1316,7 @@
 
     "gtceu.exotic_rock_crushing": "특수 돌 생산",
 
-    "block.gtceu.exotic_tectonic_formation_apparatus": "특수 지질 형성 장치",
+    "block.gtceu.exotic_tectonic_formation_apparatus": "특수 지질 형성 장치 [ETFA]",
     "block.gtceu.exotic_tectonic_formation_apparatus.tooltip.0": "§7독특한 지질 구조를 가진 돌을 만들 수 있는 환경을 조성해 여러 특수한 돌을 만들 수 있는 기계로, 이를 이용해 희귀 자원을 채굴하거나 특수한 환경을 만들 수 있습니다.",
     "material.gtceu.ferrocene": "페로센",
     "material.gtceu.hexafluorophosphoric_acid": "육플루오린인산",
@@ -1362,7 +1360,7 @@
     "material.gtceu.prismatic_hypergurmalium": "분광성 초구르말리움",
     "material.gtceu.rimula_s_foundation": "특수성 리물라 기초물",
     "material.gtceu.destabilized_rift_source": "불안정한 균열 근원물",
-    "material.gtceu.accension_rift_slurry": "승천한 균열 슬러리",
+    "material.gtceu.ascension_rift_slurry": "승천한 균열 슬러리",
     "material.gtceu.highly_unstable_rift_source": "고불안성 균열 근원물",
     "material.gtceu.abyssal_stabilization_mixture": "안정된 심연 혼합물",
     "material.gtceu.stabilization_mixture_base": "안정된 혼합물 베이스",
@@ -1427,5 +1425,4 @@
     "block.gtceu.catto_shrine.tooltip.0": "wip tooltip",
     "block.gtceu.catto_shrine.tooltip.1": "고양이 제작...기?",
     "gtceu.catto_shrine": "고양이 사원"
-
 }
